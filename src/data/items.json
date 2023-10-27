@@ -1,0 +1,50 @@
+[
+    {
+        "id" : 1,
+        "name" : "Camera",
+        "price" : 30000,
+        "imgUrl" : "/images/camera.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Shoes",
+        "price" : 2000,
+        "imgUrl" : "/images/shoes.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "Lipstick",
+        "price" : 200,
+        "imgUrl" : "/images/lipstick.jpg"
+    },
+    {
+        "id" : 4,
+        "name" : "Rebock sunglass",
+        "price" : 2000,
+        "imgUrl" : "/images/sunglass1.jpg"
+    },
+    {
+        "id" : 5,
+        "name" : "Headphone",
+        "price" : 4000,
+        "imgUrl" : "/images/headphone.jpg"
+    },
+    {
+        "id" : 6,
+        "name" : "watch",
+        "price" : 1700,
+        "imgUrl" : "/images/watch.jpg"
+    },
+    {
+        "id" : 7,
+        "name" : "Beauty Product",
+        "price" : 500,
+        "imgUrl" : "/images/beauty.jpg"
+    },
+    {
+        "id" : 8,
+        "name" : "Rupin Sunglass",
+        "price" : 800,
+        "imgUrl" : "/images/sunglass2.jpg"
+    }
+]
